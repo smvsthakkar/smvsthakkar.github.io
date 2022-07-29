@@ -5,6 +5,15 @@
         "ShowAds": true,
         "Ads": [
             {
+				"MonetizationId": 1,
+				"MonetizerName": "Facebook Monetization",
+				"AdAppKey": "3077487259140288",
+				"BannerAdKey": "3077487259140288_3077487835806897",
+				"InterstitialAdKey": "3077487259140288_3077488059140208",
+				"RewardedAdKey": "3077487259140288_3077488202473527",
+				"NativeAdKey": ""
+			},
+            {
                 "MonetizationId": 6,
                 "MonetizerName": "ironSource",
                 "AdAppKey": "14d11eb69",
