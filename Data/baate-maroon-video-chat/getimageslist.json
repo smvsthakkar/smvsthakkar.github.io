@@ -1,6 +1,9 @@
 {
     "Status": true,
     "HttpStatus": 200,
+    "Settings": {
+        "VideoCall":"Prank"
+    },
     "Data": [
         {
             "VideoId": 1,
